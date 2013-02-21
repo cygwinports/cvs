@@ -1,0 +1,10 @@
+NAME="cvs"
+VERSION=1.11.23
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="Version control system"
+DESCRIPTION="CVS is a version control system, an important component of Source
+Configuration Management (SCM). Using it, you can record the history of sources
+files, and documents."
+HOMEPAGE="http://cvs.nongnu.org/"
+SRC_URI="http://ftp.gnu.org/non-gnu/cvs/source/stable/${VERSION}/cvs-${VERSION}.tar.bz2"
